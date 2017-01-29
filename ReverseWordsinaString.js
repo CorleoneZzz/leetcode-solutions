@@ -1,29 +1,11 @@
+// https://leetcode.com/problems/reverse-words-in-a-string/
 /**
  * @param {string} str
  * @returns {string}
  */
 var reverseWords = function(str) {
-  var arr = new Array();
-  var j = 0;
-  var get = new Array();
-  var my = "";
-  arr = str.split(/\s/);
-  if (arr.length == 1) {
-    return arr[0]
-  } else {
-    for (var i = 0; i < arr.length; i++) {
-      if (arr[i] != "") {
-        get[j] = arr[i];
-        j++
-      }
-    }
-    if (get == false) {
-      return ""
-    }
-    for (var m = 0; m < get.length - 1; m++) {
-      my = my + get[get.length - 1 - m] + " ";
-    }
-    my = my + get[0];
-    return my
-  }
+  str = str.trim()
+  str = str.replace(/\s+/g, ' ') // 多空格压缩为一个
+  var arr = str.split(' ').reverse()
+  return arr.join(' ')
 }
