@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/ugly-number/
 /**
  * @param {number} num
  * @return {boolean}
