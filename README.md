@@ -1,4 +1,5 @@
-### 💻 码不停题 Leetcode Solutions
+## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
+
 
 | # | Title | Solution |
 | ------| ------ | ------ |
@@ -8,3 +9,5 @@
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://github.com/MechanicianW/leetcode-solutions/blob/master/JavaScript/MajorityElement.js) |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JavaScript](https://github.com/MechanicianW/leetcode-solutions/blob/master/JavaScript/UglyNumber.js) |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [JavaScript](https://github.com/MechanicianW/leetcode-solutions/blob/master/JavaScript/MoveZeroes.js) |
+
+</p>
