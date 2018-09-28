@@ -13,3 +13,5 @@ var isUgly = function(num) {
   }
   return num === 1
 };
+
+module.exports = isUgly;
