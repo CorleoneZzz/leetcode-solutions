@@ -10,6 +10,7 @@ description: I've solved ${files.length} / 743 problems
 footer: MIT Licensed | Copyright © 2018-present Colafornia
 ---`
   solutionFiles = files;
+  console.log('all solutions:', files);
   genHomeContent(content);
 })
 

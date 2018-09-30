@@ -4,7 +4,9 @@
   "description": "JavaScript solutions for leeetcode",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 'test/*.test.js'"
+    "test": "mocha 'test/*.test.js'",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   "dependencies": {
     "mocha": "^5.2.0",
     "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.4"
   }
 }
