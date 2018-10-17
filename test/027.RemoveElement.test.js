@@ -1,5 +1,26 @@
-const should = require('should');
-const RemoveElement = require('../javascript/27.RemoveElement');
-
-RemoveElement([3,2,2,3], 3).should.equal(2);
-RemoveElement([0,1,2,2,3,0,4,2], 2).should.equal(5);
+module.exports = [
+  {
+    input: 'hello world',
+    output: 5,
+  },
+  {
+    input: ' hello world ',
+    output: 5,
+  },
+  {
+    input: 'world',
+    output: 5,
+  },
+  {
+    input: '  world ',
+    output: 5,
+  },
+  {
+    input: '',
+    output: 0,
+  },
+  {
+    input: '  ',
+    output: 0,
+  },
+];
