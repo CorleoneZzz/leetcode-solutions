@@ -3,6 +3,7 @@
 
 | # | Title | Solution |
 | ------| ------ | ------ |
+| 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.html) |
