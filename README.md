@@ -15,3 +15,5 @@
 | 237 | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/237.DeleteNodeinaLinkedList.html) |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/263.UglyNumber.html) |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/283.MoveZeroes.html) |
+| 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/349.IntersectionofTwoArrays.html) |
+| 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/350.IntersectionofTwoArraysII.html) |
