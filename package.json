@@ -1,7 +1,7 @@
 {
   "name": "leetcode-solutions",
   "version": "1.0.0",
-  "description": "JavaScript solutions for leeetcode",
+  "description": "JavaScript solutions for leetcode",
   "main": "index.js",
   "scripts": {
     "test": "mocha 'test/*.test.js'",
