@@ -3,6 +3,7 @@
 
 | # | Title | Solution |
 | ------| ------ | ------ |
+| 15 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
