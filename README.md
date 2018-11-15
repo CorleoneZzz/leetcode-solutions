@@ -3,12 +3,13 @@
 
 | # | Title | Solution |
 | ------| ------ | ------ |
-| 15 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
+| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/027.RemoveElement.html) |
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/069.Sqrtx.html) |
+| 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/112.PathSum.html) |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/151.ReverseWordsInAString.html) |
