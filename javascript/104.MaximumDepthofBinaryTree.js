@@ -23,9 +23,3 @@ function depthPlus(root, depth) {
   depthPlus(root.left, depth + 1);
   depthPlus(root.right, depth + 1);
 }
-
-var maxDepth = function(root) {
-  max = -1;
-  depthPlus(root, 0);
-  return max;
-};
