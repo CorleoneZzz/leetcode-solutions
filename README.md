@@ -4,6 +4,7 @@
 | # | Title | Solution |
 | ------| ------ | ------ |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
+| 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/009.PalindromeNumber.html) |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/020.ValidParentheses.html) |
@@ -20,6 +21,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/203.RemoveLinkedListElements.html) |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.html) |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/215.KthLargestElementinanArray.html) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/230.KthSmallestElementinaBST.html) |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/234.PalindromeLinkedList.html) |
 | 237 | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/237.DeleteNodeinaLinkedList.html) |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/263.UglyNumber.html) |
@@ -27,3 +29,4 @@
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/349.IntersectionofTwoArrays.html) |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/350.IntersectionofTwoArraysII.html) |
 | 404 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/404.SumofLeftLeaves.html) |
+| 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.html) |
