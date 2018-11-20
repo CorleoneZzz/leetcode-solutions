@@ -14,7 +14,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.html) |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/112.PathSum.html) |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/125.ValidPalindrome.html) |
-| 136 | [LRU Cache](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.html) |
+| 136 | [Single Number](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/151.ReverseWordsInAString.html) |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.html) |
