@@ -4,6 +4,7 @@
 | # | Title | Solution |
 | ------| ------ | ------ |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/001.TwoSum.html) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/003.LongestSubstringWithoutRepeatingCharacters.html) |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/007.ReverseInteger.html) |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/009.PalindromeNumber.html) |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
