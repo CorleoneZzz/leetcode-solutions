@@ -7,6 +7,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/003.LongestSubstringWithoutRepeatingCharacters.html) |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/007.ReverseInteger.html) |
 | 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/009.PalindromeNumber.html) |
+| 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/014.LongestCommonPrefix.html) |
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/015.3Sum.html) |
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/020.ValidParentheses.html) |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/024.SwapNodesinPairs.html) |
