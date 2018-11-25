@@ -16,6 +16,7 @@
 | 58 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/058.LengthofLastWord.html) |
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/066.PlusOne.html) |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/069.Sqrtx.html) |
+| 71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/071.SimplifyPath.html) |
 | 93 | [Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/093.RestoreIPAddresses.html) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/104.MaximumDepthofBinaryTree.html) |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/112.PathSum.html) |
