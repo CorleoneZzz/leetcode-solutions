@@ -24,6 +24,7 @@
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/136.SingleNumber.html) |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/146.LRUCache.html) |
 | 151 | [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/151.ReverseWordsInAString.html) |
+| 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/155.MinStack.html) |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/169.MajorityElement.html) |
 | 203 | [Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/203.RemoveLinkedListElements.html) |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/206.ReverseLinkedList.html) |
