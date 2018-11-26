@@ -37,3 +37,4 @@
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/350.IntersectionofTwoArraysII.html) |
 | 404 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/404.SumofLeftLeaves.html) |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.html) |
+| 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.html) |
