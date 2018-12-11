@@ -42,3 +42,4 @@
 | 415 | [Add Strings](https://leetcode-cn.com/problems/add-strings/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/415.AddStrings.html) |
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/557.ReverseWordsinaStringIII.html) |
 | 567 | [Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/567.PermutationinString.html) |
+| 695 | [Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/695.MaxAreaofIsland.html) |
