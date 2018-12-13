@@ -32,6 +32,7 @@
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/215.KthLargestElementinanArray.html) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/230.KthSmallestElementinaBST.html) |
 | 234 | [Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/234.PalindromeLinkedList.html) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/235.LowestCommonAncestorofaBinarySearchTree.html) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/236.LowestCommonAncestorofaBinaryTree.html) |
 | 237 | [Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/237.DeleteNodeinaLinkedList.html) |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JavaScript](https://blog.colafornia.me/leetcode-solutions/source/263.UglyNumber.html) |
