@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/
+// https://leetcode-cn.com/problems/remove-linked-list-elements/
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {

@@ -12,15 +12,15 @@
  * @param {number} k
  * @return {number}
  */
-var kthSmallest = function(root, k) {
-  var result = [];
-  var traverseNode = function(node) {
-      if (node) {
-          traverseNode(node.left);
-          result.push(node.val);
-          traverseNode(node.right);
-      }
-  }
-  traverseNode(root);
-  return result.slice(k-1, k);
+var kthSmallest = function (root, k) {
+    var result = [];
+    var traverseNode = function (node) {
+        if (node) {
+            traverseNode(node.left);
+            result.push(node.val);
+            traverseNode(node.right);
+        }
+    }
+    traverseNode(root);
+    return result.slice(k - 1, k);
 };
