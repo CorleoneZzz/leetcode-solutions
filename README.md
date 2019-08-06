@@ -1,5 +1,6 @@
 ## ⚡️ <a href="http://blog.colafornia.me/leetcode-solutions/">Leetcode Solutions</a>
-
+[![LeetCode badge](https://leetcode-badge.chyroc.cn/?name=chyroc&leetcode_badge_style=Solved/Total-54/1138-green.svg)](https://leetcode-cn.com/u/colafornia)
+[![Language](https://img.shields.io/badge/JavaScript-ES6-blue.svg)](https://www.javascript.com/)
 
 | # | Title | Solution |
 | ------| ------ | ------ |

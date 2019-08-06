@@ -6,7 +6,7 @@ fs.readdir('./javascript/', (err, files) => {
   const content = `---
 home: true
 heroImage: https://i.loli.net/2018/09/28/5bae311eae1a0.png
-description: I've solved ${files.length} / 743 problems
+description: I've solved ${files.length} / 1138 problems
 footer: MIT Licensed | Copyright © 2018-present Colafornia
 ---`
   solutionFiles = files;
